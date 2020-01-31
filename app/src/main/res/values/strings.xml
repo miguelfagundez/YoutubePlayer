@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YoutubePlayer</string>
+    <string name="search_something_in_youtube">Search something in Youtube..</string>
+    <string name="today_is_my_lucky_day">Today is my lucky day..</string>
+    <string name="error_message">Error initializing video player</string>
+    <string name="videoTitle">Youtube Video Title</string>
+    <string name="description">Youtube Video Description:</string>
+    <string name="channel_name">Channel ID:</string>
+</resources>
